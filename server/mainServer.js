@@ -182,7 +182,7 @@ export class MainServer {
             }
             default: {
                 res.writeHead(200, { 'Content-Type': 'text/html' });
-                res.end('<script>location.href = "https://discord.com/invite/bAstbAfem9";</script>')
+                res.end('<script>location.href = "";</script>')
                 break;
             }
         }

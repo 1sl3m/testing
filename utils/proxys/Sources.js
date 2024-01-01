@@ -1,7 +1,7 @@
 export default [
     {
         "id": "",
-        "url": "https://github.com/monosans/proxy-list/blob/main/proxies/socks5.txt",
+        "url": "https://raw.githubusercontent.com/1sl3m/pp/main/socks5.txt",
         "method": "GET",
         "protocol": "socks5",
         "parser": {
@@ -11,7 +11,7 @@ export default [
     //
     {
         "id": "",
-        "url": "https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/socks4.txt",
+        "url": "https://raw.githubusercontent.com/1sl3m/pp/main/socks4.txt",
         "method": "GET",
         "protocol": "socks4",
         "parser": {
@@ -21,7 +21,7 @@ export default [
     //
     {
         "id": "",
-        "url": "https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt",
+        "url": "https://raw.githubusercontent.com/1sl3m/pp/main/http.txt",
         "method": "GET",
         "protocol": "http",
         "parser": {
